@@ -16,6 +16,6 @@
 - ☁️ [VPC-Setup-Terraform](https://github.com/Suren200/vpc-setup-terraform): VPC, subnets, route tables in Terraform
 
 ## 📫 Reach Me
-- 📧 Email:chinnappasurendran.com
+- 📧 Email:chinnappasurendran@gmail.com
   
 
